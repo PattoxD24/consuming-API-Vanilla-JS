@@ -1,0 +1,13 @@
+.albumClass{
+  /* width: 20px;
+  height: 20px; */
+  background-color: grey;
+  display: inline-block;
+  margin: 2px;
+  cursor: pointer;
+}
+.fotoClass {
+  display: inline-flex;
+  margin: 2px;
+  box-shadow: 4px 8px 15px 9px gray;
+}
